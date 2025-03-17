@@ -43,13 +43,11 @@ Cyber Security Engineer.
 - Evaluating and submitting tuning requests to the SOC engineering team to improve the detection quality of the use-cases behind the alert.
 - Hosting weekly shadowing sessions for Junior and Intern SOC analysts, as well as creating and sharing investigation playbooks with them.
 ## Certifications
----
 - Microsoft Certified: Security Operations Analyst Associate (SC-200)
 - Microsoft Technology Associate (MTA)
 - BCS Level 3 Award in Coding and Logic (603/0523/X) & Business Processes (603/0293/5)
 
 ## Education
----
 **University of Portsmouth (Bachelor of Science with Honours in Cyber Security and Forensic Computing with a First Class, Sep 2018 - June 2021)**
 
 Notable Modules Covered:
