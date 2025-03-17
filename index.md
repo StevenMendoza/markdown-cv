@@ -12,11 +12,9 @@ Cyber Security Engineer.
 
 
 ## About
----
 **A highly driven security professional who has been in industry for 8 years. Starting as an apprentice, then taking an education break to earn a first class degree in Cyber Security & Digital Forensics. Experienced in Security Engineering & Analysis in multiple cloud environments (Azure, AWS, TrendMicro) and currently working towards CISSP certification in my free time.**
 
 ## Experience
----
 **POST OFFICE LTD (Cyber Security Operations Engineer, Dec 2022  – Present)**
 
 - Led the full end to end implementation and configuration of Microsoft Sentinel, as well as setting up log ingestion and threat intelligence from external sources i.e. Syslog, ServiceNow, MISP, Alienvault, VirusTotal, Symantec, etc
