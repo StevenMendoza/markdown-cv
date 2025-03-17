@@ -6,8 +6,7 @@ title: Steven Mendoza's CV
 Cyber Security Engineer.
 
 <div id="webaddress">
-<a href="stevenmendoza23@protonmail.com">stevenmendoza23@protonmail.com</a>
-| <a href="https://www.linkedin.com/in/steven-mendoza-2b7b99121/">https://www.linkedin.com/in/steven-mendoza-2b7b99121/</a>
+<a href="">redacted/a>
 </div>
 
 
