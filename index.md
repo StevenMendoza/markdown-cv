@@ -6,7 +6,7 @@ title: Steven Mendoza's CV
 Cyber Security Engineer.
 
 <div id="webaddress">
-<a href="">redacted/a>
+<a href="">redacted</a>
 </div>
 
 
